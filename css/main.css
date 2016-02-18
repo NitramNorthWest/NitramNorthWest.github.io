@@ -55,7 +55,7 @@ h1 {
 }
 
 h2 {
-  
+
   font-size: 0.75em;
   margin: -5px 0 0;
   font-weight:normal;
@@ -90,7 +90,7 @@ na li {
 
 nav a {
   font-weight: 800;
-  padding: 15px 10px;
+  padding: 10px 10px;
 }
 
 
@@ -154,7 +154,7 @@ Page About
   max-width: 250px;
   margin: 0 auto 30px;
   padding-top: 20px;
-  
+
 }
 
 
@@ -183,7 +183,7 @@ Page Contact
 
 .contact-info li.mail a {
   background-image: url('../img/mail.png');
-  
+
 }
 
 .contact-info li.twitter a {
@@ -204,7 +204,7 @@ Colors
 /* site body */
 body {
   background-color: #f6f10d;
-  color: #b5a397;  
+  color: #b5a397;
 }
 
 /* green header */
@@ -248,10 +248,5 @@ nav a.selected, nav a:hover {
 /* site body*/
 body {
   background-color: #f6f1ed;
-  color: #999;  
+  color: #999;
 }
-
-
-
-
-
